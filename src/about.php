@@ -3,8 +3,8 @@
     Only added basic text so far -- styling needed.
     Personal github link for Max needed
 -->
+
 <?php include('header.php'); ?>
-<?php include('footer.php'); ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -43,3 +43,4 @@
 
 </body>
 </html>
+<?php include('footer.php'); ?>
